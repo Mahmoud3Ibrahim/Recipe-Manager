@@ -1,0 +1,13 @@
+You chose to buy: 5 Brioche, 4 Challah
+
+So you need:
+eggs : 32.0 eggs
+
+butter : 1650.0gm
+
+flour : 2450.0gm
+
+sugar : 148.0gm
+
+yeast : 25.0gm
+
